@@ -96,11 +96,11 @@
 }
 
 .contact__form input[type="text"] {
-      width: 50%;
+      width: 43%;
 }
 
 input, textarea {
-    width: 100%;
+    width: 90%;
     padding: 1rem;
     background: var(--color-bg);
     color: var(--color-white);
